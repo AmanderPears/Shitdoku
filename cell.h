@@ -1,3 +1,4 @@
+//Amander Pears
 #ifndef CELL_H
 #define CELL_H
 #include <QLabel>
